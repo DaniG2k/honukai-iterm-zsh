@@ -23,7 +23,7 @@ The theme is based on the wonderfully made [ys](https://github.com/robbyrussell/
 
 ### Extra eye-candy
 
-There's a bunch of settings you might want to change in your profile in order to get the extra eye-candy.
+There are a number of settings you might want to change in your profile in order to get extra eye-candy.
 
 #### **Text** tab:
 
@@ -33,7 +33,7 @@ There's a bunch of settings you might want to change in your profile in order to
 
 **Font**
 
-- Change to **[12pt Fira Mono Medium](https://github.com/mozilla/Fira/tree/master/ttf)** (I personally love the Fira font-face, and highly suggest using it)
+- Change to **[12pt Fira Mono Medium](https://fonts.google.com/specimen/Fira+Mono)** (I personally love the Fira font-face, and highly suggest using it)
 
 **Text Rendering**
 
