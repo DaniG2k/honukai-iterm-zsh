@@ -17,7 +17,7 @@ The theme is based on the wonderfully made [ys](https://github.com/robbyrussell/
 ### Colors
 
 1. Open **Preferences** pane on the **Profiles** tab in iTerm
-2. Switch to the **Colors** tab and import the [`honukai.itermcolors`](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.itermcolors) (drop-down in the lower right corner)
+2. Switch to the **Colors** tab and import the [`honukai.itermcolors`](https://raw.githubusercontent.com/DaniG2k/honukai-iterm-zsh/master/honukai.itermcolors) (drop-down in the lower right corner)
 
 **NOTE**: You'll need at least iTerm2.9-nightly (aka 3.0)
 
@@ -33,7 +33,7 @@ There are a number of settings you might want to change in your profile in order
 
 **Font**
 
-- Change to **[12pt Fira Mono Medium](https://fonts.google.com/specimen/Fira+Mono)** (I personally love the Fira font-face, and highly suggest using it)
+- Recommended: change to **[12pt Fira Mono Medium](https://fonts.google.com/specimen/Fira+Mono)**
 
 **Text Rendering**
 
