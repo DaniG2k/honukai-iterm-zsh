@@ -33,7 +33,7 @@ There are a number of settings you might want to change in your profile in order
 
 **Font**
 
-- Recommended: change to **[12pt Fira Mono Medium](https://fonts.google.com/specimen/Fira+Mono)**
+- Recommended: Install and use **[12pt Fira Mono Medium](https://github.com/DaniG2k/honukai-iterm-zsh/tree/master/fonts/Fira_Mono)**
 
 **Text Rendering**
 
