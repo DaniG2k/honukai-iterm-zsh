@@ -1,6 +1,6 @@
-## Honukai theme and colors for Oh My ZSH and iTerm by [@oskar](https://twitter.com/oskar)
+## Honukai theme and colors for Oh My ZSH and iTerm by [DaniG2k](https://github.com/daniG2k)
 
-![](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.png)
+![](https://raw.githubusercontent.com/DaniG2k/honukai-iterm-zsh/master/honukai.png)
 
 [See how it looks with blur and transparency](https://v.usetapes.com/SDGzCBkHh4) (video).
 
@@ -10,7 +10,7 @@
 
 The theme is based on the wonderfully made [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme) theme from the official [oh-my-zsh repo](https://github.com/robbyrussell/oh-my-zsh).
 
-1. Drop [`honukai.zsh-theme`](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.zsh-theme) into the `~/.oh-my-zsh/themes/` directory
+1. Drop [`honukai.zsh-theme`](https://raw.githubusercontent.com/DaniG2k/honukai-iterm-zsh/master/honukai.zsh-theme) into the `~/.oh-my-zsh/themes/` directory
 2. Change the theme variable name to `ZSH_THEME="honukai"` in `~/.zshrc`
 3. Reload ZSH with `source ~/.zshrc`
 
